@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+    char str[100], tem[100];
+    int j=0,len;
+    printf(" Enter a word:");
+    scanf("%s",str);
+    len=strlen(str)-1;
+    
+   while(len>=0)
+   {
+       
+       tem[j++]=str[len--];
+   }
+    
+    if(strcmp(tem,str)==0)
+    {
+        printf("This string is palindrome");
+    }
+    else
+    {
+        printf("This string is not palindrome %s",tem);
+    }
+}
