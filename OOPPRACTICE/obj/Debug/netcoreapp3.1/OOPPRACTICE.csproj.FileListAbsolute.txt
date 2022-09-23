@@ -1,0 +1,14 @@
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\bin\Debug\netcoreapp3.1\OOPPRACTICE.exe
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\bin\Debug\netcoreapp3.1\OOPPRACTICE.deps.json
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\bin\Debug\netcoreapp3.1\OOPPRACTICE.runtimeconfig.json
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\bin\Debug\netcoreapp3.1\OOPPRACTICE.runtimeconfig.dev.json
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\bin\Debug\netcoreapp3.1\OOPPRACTICE.dll
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\bin\Debug\netcoreapp3.1\OOPPRACTICE.pdb
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\obj\Debug\netcoreapp3.1\OOPPRACTICE.csproj.AssemblyReference.cache
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\obj\Debug\netcoreapp3.1\OOPPRACTICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\obj\Debug\netcoreapp3.1\OOPPRACTICE.AssemblyInfoInputs.cache
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\obj\Debug\netcoreapp3.1\OOPPRACTICE.AssemblyInfo.cs
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\obj\Debug\netcoreapp3.1\OOPPRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\obj\Debug\netcoreapp3.1\OOPPRACTICE.dll
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\obj\Debug\netcoreapp3.1\OOPPRACTICE.pdb
+C:\Users\HUSSAIN\source\repos\OOPPRACTICE\OOPPRACTICE\obj\Debug\netcoreapp3.1\OOPPRACTICE.genruntimeconfig.cache
